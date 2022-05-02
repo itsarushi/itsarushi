@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itarushi&label=Profile%20views&color=0e75b6&style=flat" alt="itarushi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itarushi" alt="itarushi" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/itsarushiii" target="blank"><img src="https://img.shields.io/twitter/follow/itsarushiii?logo=twitter&style=for-the-badge" alt="itsarushiii" /></a> </p>
 
 - 📫 How to reach me **arushi19verma@gmail.com**
