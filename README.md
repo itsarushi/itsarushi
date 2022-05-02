@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arushi Verma</h1>
+<h1 align="center">Hi 👋 I am Arushi Verma</h1>
 <h3 align="center">A CSE-AI Sophomore at IGDTUW who loves exploring new fields.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itarushi&label=Profile%20views&color=0e75b6&style=flat" alt="itarushi" /> </p>
